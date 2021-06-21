@@ -19,15 +19,15 @@
 跟踪方面，提取目标运动信息和表观信息，通过相似度计算和数据关联获取目标运动轨迹。
 
 ## 程序运行：
-1.运行环境：
+### 1.运行环境：
 
 `GPU + CUDA11.0 + cuDNN8.0 + Pytorch1.7.1`
 
-2.依赖配置：
+### 2.依赖配置：
 
 `$ pip install -r requirements.txt`
 
-3.目标类别设置：
+### 3.目标类别设置：
 
 修改`MOT\Detector.py`文件，第63行代码`if not lbl in ['person']:`
 
@@ -50,6 +50,6 @@
                    82: 'refrigerator', 84: 'book', 85: 'clock', 86: 'vase', 87: 'scissors',
                    88: 'teddy bear', 89: 'hair drier', 90: 'toothbrush'}`
 
-4.结果展示：
+### 4.结果展示：
 
 ![](https://github.com/J0J000/-/blob/main/output/1/det_frames/frames10.jpg)
