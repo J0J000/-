@@ -1,7 +1,7 @@
 # 面向视频内容的物品检测定位和识别技术研究与实现
 
 
-[https://github.com/J0J000/MOT](https://github.com/J0J000/MOT)
+[https://github.com/J0J000/-](https://github.com/J0J000/-)
 
 ## 项目目标：
 可以在视频中准确地检测和定位包，车，手机等物品，并可以对物品进行准确识别。
@@ -50,3 +50,6 @@
                    82: 'refrigerator', 84: 'book', 85: 'clock', 86: 'vase', 87: 'scissors',
                    88: 'teddy bear', 89: 'hair drier', 90: 'toothbrush'}`
 
+4.结果展示：
+
+![](https://github.com/J0J000/-/blob/main/output/1/det_frames/frames10.jpg)
