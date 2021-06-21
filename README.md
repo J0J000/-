@@ -50,6 +50,10 @@
                    82: 'refrigerator', 84: 'book', 85: 'clock', 86: 'vase', 87: 'scissors',
                    88: 'teddy bear', 89: 'hair drier', 90: 'toothbrush'}`
 
-### 4.结果展示：
+### 4.程序运行：
+
+`$ python demo.py`
+
+### 5.结果展示：
 
 ![](https://github.com/J0J000/-/blob/main/output/1/det_frames/frames10.jpg)
