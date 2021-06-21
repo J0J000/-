@@ -1,0 +1,994 @@
+backpack 190 67 501 501
+backpack 176 68 499 508
+backpack 180 70 498 505
+backpack 181 70 498 505
+backpack 173 68 501 509
+backpack 174 68 501 508
+backpack 186 67 504 502
+backpack 194 67 503 498
+backpack 194 67 503 498
+backpack 195 67 502 498
+backpack 195 67 501 498
+backpack 194 67 501 498
+backpack 195 67 502 498
+backpack 189 67 502 501
+backpack 186 67 503 502
+backpack 189 68 501 501
+backpack 191 68 501 500
+backpack 185 69 494 504
+backpack 193 66 499 499
+backpack 193 67 499 499
+backpack 192 66 498 499
+backpack 193 66 498 498
+backpack 193 66 498 498
+backpack 193 66 498 499
+backpack 191 68 494 502
+backpack 192 66 497 498
+backpack 193 65 498 498
+backpack 191 65 499 498
+backpack 192 65 498 497
+backpack 190 65 495 498
+backpack 190 65 496 498
+backpack 188 64 497 498
+backpack 177 65 496 503
+backpack 176 65 496 503
+backpack 188 64 500 495
+backpack 188 64 499 495
+backpack 188 64 498 495
+backpack 189 64 498 494
+backpack 190 64 497 494
+backpack 176 64 491 501
+backpack 180 64 491 500
+backpack 177 65 487 502
+backpack 176 67 490 502
+backpack 187 70 486 496
+backpack 190 71 484 495
+backpack 186 72 485 496
+backpack 188 73 486 495
+backpack 193 75 486 492
+backpack 189 75 487 493
+backpack 188 76 489 494
+backpack 185 75 490 498
+backpack 470 180 731 346
+backpack 168 73 492 509
+backpack 471 180 731 345
+backpack 183 73 495 500
+backpack 472 180 732 346
+backpack 201 74 501 487
+backpack 474 181 734 344
+backpack 203 74 501 489
+backpack 476 181 736 345
+backpack 185 74 502 499
+backpack 480 181 738 345
+backpack 177 74 509 499
+cell phone 0 286 33 410
+backpack 482 182 741 345
+backpack 214 76 512 487
+backpack 487 180 743 345
+backpack 198 76 514 497
+backpack 213 76 518 494
+backpack 212 78 527 494
+backpack 500 183 756 348
+backpack 234 78 529 488
+backpack 213 76 538 502
+backpack 232 77 544 490
+backpack 244 77 554 487
+backpack 271 76 561 482
+backpack 538 183 795 348
+backpack 252 75 567 486
+backpack 546 184 806 349
+backpack 285 76 581 480
+backpack 270 75 587 485
+backpack 297 77 597 474
+laptop 7 232 294 346
+backpack 284 76 604 479
+backpack 299 76 610 476
+backpack 588 183 849 348
+backpack 354 109 616 467
+laptop 19 224 329 347
+backpack 359 105 621 464
+laptop 12 224 338 351
+backpack 340 75 643 468
+backpack 338 75 646 470
+backpack 348 73 655 469
+backpack 359 73 667 467
+backpack 370 72 672 465
+backpack 402 105 665 463
+backpack 653 183 924 350
+backpack 406 105 667 460
+backpack 409 109 677 460
+laptop 84 212 258 413
+laptop 177 128 385 269
+backpack 398 72 689 462
+laptop 91 210 257 407
+backpack 403 72 697 462
+laptop 93 220 272 392
+laptop 0 52 22 156
+backpack 431 106 694 460
+laptop 194 128 406 307
+laptop 0 49 36 165
+laptop 89 238 274 371
+backpack 424 72 709 463
+laptop 1 44 43 157
+backpack 690 185 960 353
+backpack 422 71 714 463
+laptop 1 29 49 165
+backpack 432 71 723 462
+backpack 702 186 960 359
+backpack 452 107 718 458
+backpack 430 71 736 463
+backpack 452 71 739 461
+laptop 0 13 74 168
+backpack 448 71 748 461
+laptop 0 14 80 160
+laptop 74 105 159 134
+backpack 459 70 754 460
+laptop 0 12 94 158
+laptop 242 127 451 304
+laptop 86 105 171 136
+laptop 163 235 326 347
+backpack 453 70 759 461
+laptop 163 235 322 355
+laptop 0 18 95 158
+backpack 471 68 765 460
+laptop 179 234 330 349
+backpack 479 67 772 459
+laptop 178 233 334 361
+backpack 476 67 773 460
+laptop 172 233 338 371
+backpack 480 65 775 459
+laptop 167 232 344 373
+laptop 0 11 120 153
+backpack 477 65 782 459
+laptop 0 12 121 154
+laptop 148 230 345 375
+backpack 477 64 785 458
+laptop 0 11 125 152
+laptop 185 230 351 369
+laptop 317 231 478 308
+backpack 488 63 790 457
+laptop 189 229 361 370
+laptop 0 10 129 151
+backpack 490 63 789 456
+laptop 196 228 366 367
+laptop 0 10 132 149
+laptop 329 231 487 306
+backpack 480 64 799 456
+laptop 201 228 362 365
+laptop 3 11 145 148
+laptop 133 99 215 128
+laptop 335 234 489 303
+backpack 481 63 800 454
+laptop 201 227 369 365
+laptop 136 98 219 128
+laptop 5 10 144 147
+laptop 335 233 491 302
+backpack 484 60 801 452
+laptop 203 225 374 363
+laptop 8 9 143 145
+backpack 492 61 800 450
+laptop 208 224 376 360
+laptop 15 8 146 142
+laptop 143 97 225 126
+backpack 526 88 793 444
+laptop 207 222 380 359
+laptop 145 96 226 125
+laptop 17 5 149 142
+backpack 527 91 794 441
+laptop 210 220 377 358
+laptop 24 3 154 140
+laptop 146 95 231 126
+backpack 527 89 796 438
+laptop 212 217 375 355
+laptop 26 3 162 138
+laptop 148 93 233 124
+backpack 528 91 797 435
+laptop 216 215 376 351
+laptop 29 3 171 137
+backpack 513 54 804 439
+laptop 214 213 377 348
+laptop 32 1 166 133
+backpack 496 53 803 436
+laptop 216 212 380 344
+laptop 37 1 165 132
+backpack 501 51 799 433
+laptop 37 0 164 130
+laptop 220 209 385 339
+laptop 319 209 506 286
+backpack 506 49 800 430
+laptop 218 206 389 338
+laptop 324 209 507 284
+backpack 512 46 798 428
+laptop 217 204 390 335
+laptop 42 0 169 127
+laptop 304 205 506 282
+backpack 485 44 799 425
+laptop 218 200 389 332
+laptop 43 0 169 126
+laptop 317 203 504 279
+backpack 491 43 796 422
+laptop 219 198 387 329
+laptop 45 0 169 123
+backpack 505 40 796 418
+laptop 225 194 386 322
+laptop 46 0 167 117
+backpack 510 38 792 416
+laptop 213 192 390 323
+laptop 47 0 169 113
+backpack 500 35 789 412
+laptop 211 190 387 321
+laptop 49 0 170 114
+backpack 491 31 789 410
+laptop 218 187 387 316
+laptop 48 0 170 112
+backpack 493 29 788 406
+laptop 212 184 386 316
+laptop 49 0 170 111
+backpack 487 28 787 402
+laptop 201 181 389 316
+laptop 51 0 170 109
+backpack 494 26 782 397
+laptop 185 179 384 313
+backpack 498 24 780 394
+laptop 191 176 386 310
+backpack 499 22 781 389
+laptop 160 173 386 307
+backpack 500 18 779 384
+laptop 164 168 398 305
+laptop 358 182 500 248
+backpack 476 13 777 380
+laptop 144 165 386 300
+laptop 53 1 167 92
+backpack 471 8 774 373
+laptop 146 159 385 293
+backpack 477 0 760 358
+backpack 469 0 756 348
+backpack 473 0 751 339
+laptop 201 133 364 252
+backpack 451 0 746 332
+laptop 336 136 476 205
+backpack 444 0 738 323
+laptop 331 132 467 198
+backpack 456 0 733 317
+backpack 714 104 960 260
+backpack 447 0 728 306
+backpack 443 0 725 297
+backpack 463 0 709 290
+backpack 462 0 706 284
+laptop 169 83 335 203
+backpack 456 0 700 275
+laptop 175 78 328 192
+backpack 451 0 698 269
+laptop 303 87 438 151
+laptop 167 72 323 192
+backpack 434 0 697 264
+backpack 680 59 945 204
+laptop 297 85 432 146
+laptop 179 67 325 186
+backpack 419 0 691 258
+laptop 154 65 315 181
+laptop 299 80 430 142
+backpack 678 54 939 198
+backpack 404 0 686 255
+laptop 157 63 315 178
+backpack 671 52 932 192
+laptop 289 77 422 138
+backpack 401 0 682 251
+backpack 664 48 928 191
+backpack 428 0 675 246
+laptop 284 68 415 134
+backpack 660 46 917 188
+laptop 156 55 301 168
+backpack 396 0 672 244
+laptop 282 66 414 129
+backpack 392 1 664 241
+laptop 279 65 407 127
+laptop 135 48 300 164
+backpack 383 1 658 238
+laptop 273 64 404 124
+backpack 392 1 655 235
+laptop 267 63 399 121
+backpack 381 2 651 232
+laptop 120 42 274 156
+laptop 262 59 393 119
+backpack 379 0 648 230
+laptop 128 40 270 153
+laptop 259 57 390 117
+backpack 366 0 642 228
+laptop 101 38 275 159
+backpack 367 0 637 226
+laptop 109 36 269 157
+laptop 251 55 384 112
+backpack 356 0 631 224
+laptop 63 34 272 164
+laptop 244 51 372 110
+backpack 361 0 625 219
+laptop 75 31 255 162
+backpack 347 0 620 217
+laptop 99 29 250 150
+backpack 343 0 616 215
+backpack 341 0 611 212
+laptop 90 25 247 146
+backpack 340 0 611 209
+backpack 336 0 607 207
+backpack 332 0 603 204
+backpack 343 0 602 201
+backpack 348 0 599 196
+backpack 341 0 606 191
+backpack 350 0 612 185
+backpack 321 0 602 179
+backpack 574 0 818 123
+backpack 320 0 603 171
+backpack 317 0 586 161
+backpack 314 0 582 153
+backpack 326 0 589 143
+backpack 309 0 585 132
+cell phone 87 0 192 48
+backpack 307 0 575 124
+backpack 307 0 569 111
+backpack 322 0 574 102
+backpack 310 0 569 96
+backpack 325 0 567 85
+backpack 293 0 567 77
+backpack 291 0 566 70
+laptop 418 0 710 125
+cell phone 698 7 853 123
+cell phone 704 0 860 112
+laptop 423 0 711 121
+cell phone 704 0 860 112
+laptop 423 0 711 121
+cell phone 704 0 860 112
+laptop 423 0 711 121
+cell phone 704 0 860 112
+laptop 423 0 711 121
+cell phone 703 0 860 112
+laptop 423 0 711 120
+cell phone 709 0 860 100
+laptop 440 0 714 109
+cell phone 709 0 860 100
+laptop 440 0 714 109
+laptop 456 0 707 96
+cell phone 810 37 864 93
+cell phone 747 0 868 46
+cell phone 762 0 864 33
+cell phone 761 0 858 33
+cell phone 750 3 884 59
+cell phone 832 7 888 50
+cell phone 781 0 914 52
+cell phone 775 0 920 55
+cell phone 256 85 388 177
+cell phone 252 89 389 179
+cell phone 249 89 379 185
+laptop 408 1 673 86
+laptop 402 0 671 93
+laptop 385 0 670 114
+cell phone 672 0 813 95
+laptop 382 0 662 114
+cell phone 660 0 798 92
+laptop 381 0 657 113
+cell phone 651 0 785 92
+cell phone 276 160 324 213
+laptop 386 0 658 113
+cell phone 647 0 779 94
+laptop 379 0 648 113
+cell phone 636 0 765 92
+laptop 374 0 640 114
+laptop 372 0 633 115
+laptop 370 0 632 116
+laptop 368 0 629 118
+cell phone 592 0 719 100
+cell phone 658 73 721 120
+cell phone 585 0 712 107
+laptop 372 0 638 126
+laptop 373 0 637 128
+cell phone 583 0 701 113
+laptop 378 0 640 131
+cell phone 582 5 700 117
+cell phone 728 24 840 81
+laptop 379 0 639 135
+cell phone 728 33 829 88
+cell phone 582 17 698 121
+laptop 382 0 636 141
+cell phone 580 25 695 129
+cell phone 730 42 829 95
+laptop 387 0 643 145
+cell phone 278 144 320 201
+cell phone 728 46 833 102
+cell phone 583 30 696 131
+laptop 391 0 645 150
+cell phone 279 150 320 199
+cell phone 730 52 825 107
+laptop 396 0 653 156
+cell phone 732 62 835 116
+cell phone 587 46 701 142
+cell phone 281 155 319 201
+laptop 402 0 664 160
+cell phone 285 162 321 205
+cell phone 589 53 705 149
+cell phone 734 71 832 122
+laptop 407 0 669 165
+cell phone 594 58 704 155
+cell phone 734 75 840 130
+cell phone 287 169 323 208
+laptop 411 1 676 170
+cell phone 598 70 705 162
+cell phone 290 174 331 213
+cell phone 739 83 835 136
+laptop 418 2 681 174
+cell phone 603 75 712 164
+laptop 425 2 688 173
+cell phone 607 72 716 167
+laptop 428 2 689 173
+cell phone 615 69 721 165
+cell phone 749 88 847 140
+laptop 432 2 682 170
+cell phone 620 65 724 155
+laptop 438 1 697 164
+cell phone 755 81 855 134
+cell phone 624 60 731 151
+laptop 442 0 694 161
+cell phone 765 74 862 124
+laptop 448 0 699 155
+laptop 453 0 701 150
+cell phone 769 70 866 121
+laptop 462 0 709 144
+cell phone 779 66 872 115
+cell phone 652 48 756 128
+laptop 470 0 715 143
+laptop 477 0 729 142
+cell phone 667 47 772 129
+laptop 482 0 733 142
+cell phone 673 47 779 129
+laptop 487 0 738 152
+cell phone 676 56 780 140
+laptop 493 1 743 162
+laptop 495 1 739 176
+laptop 503 0 738 199
+cell phone 688 109 788 184
+laptop 503 1 785 216
+cell phone 691 128 787 199
+laptop 505 0 798 232
+cell phone 691 145 792 223
+cell phone 692 151 790 228
+laptop 507 0 799 234
+cell phone 806 162 899 211
+laptop 505 0 798 237
+cell phone 691 153 790 229
+cell phone 805 165 897 216
+laptop 506 0 797 240
+cell phone 806 170 902 218
+cell phone 690 153 793 234
+laptop 506 0 797 241
+cell phone 690 157 789 237
+cell phone 808 172 893 220
+laptop 506 0 797 241
+cell phone 690 155 792 238
+cell phone 805 169 902 219
+laptop 504 0 798 240
+cell phone 691 155 790 231
+laptop 505 0 797 236
+cell phone 692 151 792 224
+laptop 504 0 796 231
+cell phone 691 145 793 220
+laptop 503 0 790 224
+cell phone 689 137 790 218
+laptop 501 1 781 214
+cell phone 689 128 789 200
+laptop 498 0 767 205
+cell phone 684 118 789 192
+laptop 497 0 765 196
+cell phone 683 110 790 182
+laptop 495 0 764 185
+cell phone 681 100 786 176
+laptop 493 0 758 178
+laptop 492 1 755 168
+laptop 796 1 940 148
+laptop 491 0 762 158
+laptop 677 66 786 146
+laptop 488 0 752 149
+laptop 800 0 929 102
+laptop 487 0 735 130
+cell phone 675 32 780 119
+laptop 673 32 782 119
+laptop 489 0 724 122
+cell phone 676 25 779 108
+cell phone 734 99 781 136
+laptop 672 26 782 108
+laptop 801 49 898 98
+laptop 487 0 742 117
+laptop 802 4 925 91
+laptop 674 20 778 103
+laptop 488 0 749 110
+laptop 674 13 779 95
+laptop 488 0 725 106
+laptop 672 7 779 95
+cell phone 673 7 779 94
+laptop 486 0 713 101
+cell phone 802 27 897 78
+laptop 670 0 777 87
+laptop 667 0 776 82
+cell phone 803 22 895 73
+cell phone 799 18 894 68
+laptop 480 0 702 93
+cell phone 666 0 775 77
+laptop 479 0 693 83
+cell phone 797 8 893 61
+laptop 476 0 692 82
+cell phone 660 0 769 69
+laptop 476 0 690 81
+laptop 473 0 687 81
+laptop 473 0 690 79
+cell phone 791 26 888 78
+cell phone 792 39 888 89
+cell phone 793 45 890 98
+cell phone 797 67 891 120
+laptop 571 1 734 139
+laptop 573 0 739 143
+cell phone 794 71 891 125
+cell phone 793 75 889 128
+laptop 575 0 740 145
+laptop 576 0 743 149
+cell phone 795 78 891 131
+laptop 576 0 743 153
+cell phone 794 80 890 133
+laptop 488 0 701 110
+laptop 573 0 747 157
+cell phone 793 86 889 137
+laptop 486 0 701 115
+laptop 572 3 749 154
+laptop 486 0 700 118
+laptop 569 2 748 154
+cell phone 791 91 887 144
+cell phone 789 92 883 145
+laptop 567 0 741 162
+laptop 482 0 690 120
+cell phone 787 93 880 145
+laptop 564 0 739 162
+laptop 479 0 685 120
+laptop 558 0 737 164
+cell phone 780 96 872 147
+laptop 553 0 733 165
+cell phone 777 95 866 146
+laptop 551 0 728 165
+cell phone 771 98 865 148
+laptop 469 0 677 126
+laptop 547 0 722 165
+cell phone 767 98 862 148
+laptop 544 0 719 164
+cell phone 764 97 859 147
+laptop 541 0 716 165
+cell phone 761 98 853 146
+laptop 457 0 668 124
+laptop 537 1 711 165
+cell phone 758 98 848 146
+laptop 529 0 707 164
+cell phone 754 97 846 147
+laptop 527 0 706 163
+laptop 446 0 650 122
+laptop 521 3 704 158
+cell phone 746 96 842 148
+laptop 518 2 696 161
+cell phone 744 97 837 147
+laptop 514 1 694 167
+cell phone 741 98 835 148
+laptop 505 1 687 171
+cell phone 737 99 829 150
+laptop 500 0 682 174
+cell phone 733 102 822 154
+laptop 492 0 678 177
+cell phone 728 105 816 157
+cell phone 623 168 685 207
+cell phone 514 0 602 42
+laptop 470 0 665 196
+cell phone 488 0 580 61
+laptop 489 0 580 61
+laptop 441 0 656 220
+laptop 477 0 573 72
+laptop 430 0 656 233
+laptop 464 0 567 83
+laptop 421 0 649 246
+laptop 452 0 552 94
+cell phone 576 222 643 261
+laptop 436 0 540 107
+laptop 406 0 643 258
+laptop 391 0 633 270
+laptop 425 8 526 120
+cell phone 670 191 758 242
+laptop 378 0 624 284
+laptop 409 25 511 138
+cell phone 661 203 747 261
+laptop 367 1 616 300
+laptop 392 40 494 153
+laptop 352 17 607 321
+laptop 382 59 480 175
+backpack 175 0 333 84
+laptop 345 27 592 334
+cell phone 645 248 726 306
+cell phone 367 75 466 190
+backpack 172 0 332 90
+laptop 335 32 589 343
+cell phone 353 83 454 199
+cell phone 638 257 723 318
+laptop 131 0 206 56
+backpack 169 0 327 96
+laptop 319 42 580 359
+laptop 127 2 199 64
+cell phone 332 101 433 218
+backpack 166 0 324 105
+laptop 316 45 575 366
+backpack 164 0 322 107
+cell phone 625 276 712 341
+laptop 127 3 200 65
+laptop 308 51 571 371
+backpack 165 0 322 109
+laptop 127 4 199 68
+cell phone 623 281 709 345
+laptop 304 53 570 376
+backpack 164 0 321 111
+cell phone 623 284 707 350
+laptop 129 8 199 70
+laptop 430 0 603 108
+laptop 300 55 569 379
+backpack 164 0 323 112
+laptop 130 9 201 70
+cell phone 622 288 706 357
+cell phone 299 122 401 240
+laptop 296 56 567 382
+backpack 165 0 325 113
+laptop 129 10 203 71
+cell phone 621 290 705 359
+cell phone 295 129 392 240
+laptop 290 57 566 388
+cell phone 624 295 707 364
+backpack 167 0 326 114
+laptop 130 12 204 73
+cell phone 291 130 393 247
+laptop 291 59 568 398
+cell phone 624 298 708 370
+cell phone 289 135 386 249
+backpack 169 0 327 116
+laptop 133 9 208 76
+laptop 434 0 591 122
+laptop 291 60 565 403
+cell phone 625 303 714 378
+backpack 172 0 330 116
+cell phone 287 138 384 257
+laptop 136 0 215 79
+laptop 437 0 590 171
+laptop 290 61 566 406
+cell phone 627 306 715 379
+backpack 175 0 333 119
+cell phone 283 141 383 262
+laptop 288 66 567 411
+cell phone 632 311 717 379
+cell phone 282 146 379 269
+backpack 179 0 335 121
+laptop 441 1 593 177
+laptop 285 71 571 415
+cell phone 637 315 721 388
+cell phone 282 149 380 274
+backpack 183 0 337 125
+laptop 287 74 576 426
+cell phone 284 155 385 280
+cell phone 643 321 730 406
+backpack 184 0 341 129
+laptop 288 78 581 431
+backpack 193 0 350 133
+cell phone 648 329 739 406
+cell phone 286 162 386 291
+laptop 287 83 586 441
+backpack 197 0 355 138
+cell phone 654 337 743 414
+cell phone 287 171 392 297
+laptop 291 91 591 453
+backpack 204 0 359 142
+cell phone 662 346 753 434
+laptop 295 98 601 462
+backpack 208 0 365 148
+laptop 301 104 609 477
+backpack 215 0 373 153
+cell phone 301 197 404 332
+laptop 315 110 617 487
+cell phone 300 211 411 347
+backpack 221 0 379 162
+laptop 185 40 259 116
+laptop 305 120 629 504
+backpack 228 0 387 168
+cell phone 304 222 415 361
+cell phone 695 388 799 487
+laptop 315 128 637 518
+cell phone 309 233 422 373
+backpack 233 0 394 176
+cell phone 707 399 811 495
+laptop 203 65 272 129
+laptop 320 135 646 532
+cell phone 311 245 429 392
+backpack 241 0 399 184
+laptop 323 147 660 537
+backpack 244 0 406 190
+cell phone 316 260 434 409
+cell phone 727 424 835 541
+laptop 320 157 664 537
+backpack 250 0 410 196
+cell phone 321 275 437 425
+cell phone 736 440 848 539
+laptop 319 168 674 536
+backpack 256 0 415 206
+cell phone 320 294 444 445
+laptop 226 89 296 158
+laptop 318 177 681 537
+backpack 258 0 420 213
+cell phone 752 467 868 542
+cell phone 322 306 446 464
+laptop 314 182 689 538
+backpack 258 0 424 219
+cell phone 323 316 451 481
+cell phone 760 479 870 543
+laptop 301 190 693 538
+backpack 260 0 427 221
+cell phone 322 330 453 501
+cell phone 768 490 872 542
+backpack 264 0 430 225
+laptop 305 195 696 541
+cell phone 770 500 870 543
+cell phone 323 343 450 509
+backpack 269 0 433 230
+laptop 282 204 705 541
+cell phone 782 520 869 544
+cell phone 318 360 449 536
+laptop 283 209 705 540
+backpack 269 0 434 233
+cell phone 317 370 449 541
+cell phone 220 188 274 206
+backpack 270 2 435 237
+laptop 282 214 713 540
+laptop 294 217 716 540
+backpack 269 3 434 240
+cell phone 221 194 273 211
+laptop 291 221 715 540
+backpack 269 3 434 241
+laptop 227 97 308 189
+laptop 288 224 710 540
+backpack 268 5 433 243
+laptop 223 98 307 191
+laptop 288 227 713 540
+backpack 267 4 432 245
+laptop 783 12 836 53
+cell phone 218 199 268 218
+laptop 290 227 714 539
+backpack 267 7 432 246
+laptop 777 14 836 53
+laptop 282 229 712 540
+backpack 266 4 431 248
+laptop 776 14 837 54
+cell phone 215 201 269 220
+laptop 264 234 709 539
+backpack 264 5 431 250
+laptop 781 15 838 55
+laptop 271 235 709 539
+backpack 261 10 431 253
+laptop 782 15 840 56
+laptop 274 238 708 539
+backpack 261 11 430 253
+cell phone 213 204 267 223
+laptop 779 16 840 56
+laptop 271 239 709 539
+backpack 261 10 431 254
+laptop 776 16 841 58
+cell phone 212 204 266 224
+laptop 261 241 708 540
+backpack 261 10 431 254
+laptop 782 16 844 57
+cell phone 212 206 265 224
+laptop 259 241 707 540
+backpack 260 10 431 254
+laptop 792 17 843 57
+cell phone 213 205 265 225
+laptop 264 243 705 540
+backpack 262 11 432 254
+cell phone 213 206 267 225
+laptop 790 17 847 56
+laptop 267 244 703 540
+backpack 260 11 432 254
+cell phone 214 205 266 226
+laptop 803 17 851 57
+laptop 269 245 702 540
+backpack 264 13 433 258
+laptop 804 17 855 58
+cell phone 215 208 269 227
+laptop 295 247 701 540
+backpack 264 14 435 258
+laptop 808 17 856 58
+cell phone 216 208 269 227
+laptop 285 248 703 540
+backpack 265 14 436 257
+cell phone 217 209 270 227
+laptop 307 250 703 540
+backpack 265 14 437 258
+laptop 809 18 854 57
+cell phone 218 209 270 228
+laptop 320 250 704 541
+backpack 267 18 439 259
+laptop 810 18 862 58
+cell phone 218 207 274 227
+laptop 322 250 706 541
+backpack 271 9 440 257
+cell phone 220 206 276 228
+laptop 813 19 865 59
+laptop 325 251 706 541
+backpack 272 11 441 258
+cell phone 221 207 278 228
+laptop 817 19 866 60
+laptop 300 251 709 542
+backpack 273 16 443 259
+cell phone 222 209 277 229
+laptop 814 20 867 60
+laptop 288 252 714 541
+backpack 274 14 445 260
+cell phone 223 207 279 229
+laptop 820 20 869 61
+laptop 275 251 719 541
+backpack 275 12 447 258
+cell phone 227 209 281 228
+laptop 822 22 868 62
+laptop 294 251 724 541
+backpack 276 17 450 257
+laptop 823 22 870 62
+cell phone 230 209 282 227
+backpack 280 14 452 257
+laptop 284 251 732 541
+laptop 821 22 873 63
+cell phone 231 206 288 226
+laptop 334 246 748 541
+backpack 284 12 456 256
+cell phone 235 205 288 225
+laptop 821 23 869 65
+laptop 335 243 755 541
+backpack 282 10 457 254
+laptop 812 22 865 63
+cell phone 234 206 289 224
+backpack 281 7 454 249
+laptop 337 241 766 541
+laptop 809 22 860 62
+backpack 279 6 450 249
+laptop 325 237 767 541
+backpack 271 3 444 244
+laptop 335 229 771 542
+backpack 262 2 435 241
+laptop 258 224 763 541
+laptop 229 111 309 186
+laptop 292 220 774 539
+backpack 250 0 425 236
+laptop 304 213 772 539
+backpack 240 0 414 232
+cell phone 189 187 244 205
+laptop 310 203 769 539
+backpack 225 0 402 228
+laptop 308 195 764 539
+backpack 208 0 390 223
+laptop 301 186 757 541
+backpack 197 1 376 217
+laptop 301 177 755 541
+backpack 184 2 363 211
+cell phone 793 483 914 541
+laptop 297 169 749 542
+backpack 168 0 352 207
+cell phone 787 467 920 539
+laptop 293 162 733 540
+backpack 147 0 334 201
+cell phone 770 451 925 542
+laptop 292 154 723 539
+backpack 131 0 319 196
+cell phone 759 437 908 541
+laptop 285 146 715 539
+backpack 114 0 306 192
+cell phone 749 424 897 540
+laptop 285 138 711 538
+backpack 106 0 297 188
+cell phone 742 410 891 529
+laptop 283 132 711 523
+backpack 96 1 288 181
+cell phone 735 397 882 509
+laptop 280 127 705 509
+backpack 86 0 277 176
+laptop 281 114 693 503
+backpack 77 0 267 170
+cell phone 724 369 860 475
+laptop 281 106 687 492
+backpack 67 0 261 164
+laptop 280 98 678 489
+backpack 53 0 248 159
+cell phone 613 478 704 542
+cell phone 441 231 582 417
+laptop 542 158 912 450
+cell phone 276 99 677 483
+cell phone 704 346 842 443
+laptop 274 86 674 481
+backpack 40 0 239 153
+laptop 271 86 672 464
+backpack 34 0 234 149
+cell phone 691 328 825 416
+cell phone 606 450 690 521
+laptop 274 78 670 455
+backpack 27 0 227 144
+laptop 274 72 668 446
+backpack 22 0 220 137
+laptop 382 0 550 214
+laptop 276 61 670 436
+backpack 18 0 220 131
+cell phone 439 177 559 350
+cell phone 281 65 662 429
+laptop 381 1 546 199
+laptop 277 57 664 424
+backpack 13 0 215 125
+cell phone 445 166 563 332
+cell phone 284 55 659 424
+laptop 278 47 661 410
+cell phone 449 149 564 315
+backpack 11 0 211 118
+laptop 282 24 658 388
+backpack 4 0 206 102
+laptop 283 14 657 367
+backpack 2 0 202 94
+laptop 285 3 657 352
+backpack 0 0 200 83
+laptop 288 0 654 335
+backpack 0 0 197 74
+laptop 290 0 653 315
+backpack 0 0 194 62
+laptop 293 0 652 299
+cell phone 471 37 578 182
+cell phone 194 157 236 191
+cell phone 293 0 649 299
+cell phone 475 18 582 162
+laptop 298 2 620 284
+laptop 304 0 588 267
+cell phone 482 2 585 143
+cell phone 112 352 223 435
+laptop 308 0 593 252
+cell phone 136 336 230 416
+laptop 313 1 596 237
+cell phone 165 318 242 375
+laptop 322 1 606 221
+cell phone 200 303 252 351
+laptop 328 1 626 210
+cell phone 214 291 265 340
+laptop 336 2 629 202
+cell phone 660 87 770 142
+cell phone 233 73 272 107
+laptop 346 1 627 198
+laptop 355 1 646 191
+cell phone 370 218 432 254
+laptop 368 2 656 188
+laptop 378 0 672 188
+laptop 391 0 680 187
+cell phone 691 71 804 127
+laptop 403 2 695 186
+cell phone 684 144 741 184
+laptop 414 1 716 185
+cell phone 694 143 752 182
+laptop 427 0 733 187
+cell phone 708 142 765 180
+laptop 440 1 752 186
+cell phone 720 142 778 180
+laptop 455 1 771 187
+cell phone 737 141 794 179
+laptop 473 0 792 185
+laptop 489 1 817 185
+laptop 509 0 843 184
+cell phone 794 137 852 176
+cell phone 818 134 874 173
+laptop 527 1 867 181
+laptop 552 0 851 177
+cell phone 844 129 900 169
+laptop 577 1 837 173
+laptop 628 1 893 164
+laptop 653 0 925 162
+laptop 675 0 959 158
+laptop 700 0 960 156
+laptop 719 0 960 156
+laptop 737 0 960 159
+laptop 775 0 960 190
+laptop 806 0 960 190
+laptop 829 0 960 178
+laptop 858 3 960 197

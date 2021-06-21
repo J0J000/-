@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@hz.matpool.com:28664">
+    <serverData>
+      <paths name="root@hz.matpool.com:26550">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/last_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:27950">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/last_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:28304">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/last_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:28502">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/last_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@hz.matpool.com:28664">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/last_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
